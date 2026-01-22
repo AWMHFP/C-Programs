@@ -1,3 +1,0 @@
-this is the first file.
-this is my first push to github.
-Did git push -u origin main so that next time I can just git push.
