@@ -1,3 +1,4 @@
+// To print the pattern 1 222 33333 4444444 555555555
 #include<stdio.h>
 #include<math.h>
 int main(){
